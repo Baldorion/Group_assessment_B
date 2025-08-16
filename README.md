@@ -41,7 +41,6 @@ $ cargo run -- list
 ddeab3cc-4256-4596-bff7-bc9d940e195f | Charlie | charlie@example.com
 Total: 1
 
---
 
 ## Requirements:
 
@@ -49,7 +48,6 @@ Rust (latest stable version)
 
 Cargo (comes with Rust)
 
---
 
 ## License
 
