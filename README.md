@@ -17,21 +17,22 @@ Clone the repository:
 ```bash
 git clone https://github.com/your-username/secure_contacts.git
 cd secure_contacts
+```
 
-Build the project:
+## Build the project:
 cargo build
 
-Or run directly:
+### Or run directly:
 cargo run -- help
 
-Usage
-Add a new contact:
+## Usage
+### Add a new contact:
 cargo run -- add "Alice" "alice@example.com"
 
-List all contacts:
+### List all contacts:
 cargo run -- list
 
-Example:
+## Example:
 $ cargo run -- add "Charlie" "charlie@example.com"
 Adding contact: Charlie <charlie@example.com>
 Saved.
@@ -41,13 +42,15 @@ ddeab3cc-4256-4596-bff7-bc9d940e195f | Charlie | charlie@example.com
 Total: 1
 
 --
-Requirements:
+
+## Requirements:
 
 Rust (latest stable version)
 
 Cargo (comes with Rust)
 
 --
-License
+
+## License
 
 This project is for educational purposes and is distributed under the MIT License.
